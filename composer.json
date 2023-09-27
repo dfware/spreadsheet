@@ -30,7 +30,7 @@
         }
     ],
     "autoload": {
-        "psr-4": { "dfware\\spreadsheet\\": "src" }
+        "psr-4": { "yii2tech\\spreadsheet\\": "src" }
     },
     "extra": {
         "branch-alias": {
